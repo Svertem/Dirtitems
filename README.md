@@ -1,2 +1,2 @@
 # Dirtitems
-Dirt items
+Mod for terraria which add dirt items in game
